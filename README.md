@@ -28,5 +28,5 @@ python cli_fetcher.py --fetch --url https://github.com/Avylis/api-cli-fetcher
 python cli_fetcher.py --fetch --url https://github.com/Avylis/api-cli-fetcher --output dane.json
 ```
 
-##Jak rozszerzeyć aplikacje
+## Jak rozszerzeyć aplikacje
 - Umożliw różne formaty danych (np. CSV, XML) poprzez dodatkowe flagi CLI
